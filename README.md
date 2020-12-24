@@ -43,17 +43,18 @@ Configure Clover
     * Memory fix drivers
       * OsxAptioFix3Drv
       
-## [Kernel Extensions](https://www.dualbootpc.com/software/kexts/)
+## Kernel Extensions
 
-<details><summary>Mandatory</summary>
-  * FakeSMC.kext <br>
-  * Lili.kext <br>
-  * WhateverGreen.kext <br>
-</details>
+* Mandatory from [Release v.0.1.0](https://github.com/Sipylus/Arctic-Fox/releases/tag/0.1.0)
+  * FakeSMC.kext
+  * Lili.kext
+  * WhateverGreen.kext
 
-<details><summary>Post Installation</summary>
-  * AppleALC.kext <br>
-  * IntelMausiEthernet.kext <br>
-  * USBInjectAll.kext <br>
-  * XHCI-200-series-injector.kext <br>
-</details>
+* Post Installation from [Release v.1.1.0](https://github.com/Sipylus/Arctic-Fox/releases/tag/1.1.0)
+  * AppleALC.kext
+  * IntelMausiEthernet.kext
+  * USBInjectAll.kext
+  * XHCI-200-series-injector.kext
+
+View the list of [kexts](https://www.dualbootpc.com/software/kexts/) available on GixxerPC: http://gixxer.us/3aS5d6m
+
