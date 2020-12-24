@@ -1,5 +1,5 @@
 # Arctic Fox
-*A*nother *R*eworked *C*omputer *T*hat *I*ncorporates *C*oding *F*rom *O*S *X*
+*A*nother *R*eworked *C*omputer *T*hat *I*ncorporates *C*oding *F*rom *O*S *Xcode*
 
 ## Table of Contents
 
@@ -7,6 +7,8 @@
 * [Prepare Install Media](#prepare-install-media)
 * [Install the Bootloader](#install-the-bootloader)
 * [Kernel Extensions](#kernel-extensions)
+* [Releases](#releases)
+* [License](#license)
 
 
 ## The Build
@@ -57,4 +59,12 @@ Configure Clover
   * XHCI-200-series-injector.kext
 
 View the list of [kexts](https://www.dualbootpc.com/software/kexts/) available on GixxerPC: http://gixxer.us/3aS5d6m
+  
+  ## Releases
+  
+  See the latest [releases] for the project.
+  
+  ## License
+  
+  See the posted [MIT License](https://github.com/Sipylus/Arctic-Fox/blob/main/LICENSE).
 
