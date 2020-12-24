@@ -60,11 +60,20 @@ Configure Clover
 
 View the list of [kexts](https://www.dualbootpc.com/software/kexts/) available on GixxerPC: http://gixxer.us/3aS5d6m
   
-  ## Releases
-  
-  See the latest [releases](https://github.com/Sipylus/Arctic-Fox/releases/tag/1.1.0) for the project.
-  
-  ## License
-  
-  See the posted [MIT License](https://github.com/Sipylus/Arctic-Fox/blob/main/LICENSE).
+## Releases
 
+See the latest [releases](https://github.com/Sipylus/Arctic-Fox/releases/tag/1.1.0) for the project.
+  
+## License
+  
+See the posted [MIT License](https://github.com/Sipylus/Arctic-Fox/blob/main/LICENSE).
+  
+## Warranty
+  
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR<br>
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,<br>
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE<br>
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER<br>
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,<br>
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE<br>
+SOFTWARE.
