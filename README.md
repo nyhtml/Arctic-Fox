@@ -15,7 +15,7 @@ View the complete [build](https://www.dualbootpc.com/systems/desktop/arctic-fox/
 
 ## Prepare Install Media
 
-1. Download the [macOS Sierra installer](https://www.dualbootpc.com/software/system/macos/sierra/) (v10.13.6) from the Mac App Store.
+1. Download the [macOS Sierra installer](https://www.dualbootpc.com/software/system/macos/sierra/) (v10.12.6) from the Mac App Store.
 2. Open Terminal and format the target USB drive as with the following command:
 
     `diskutil partitionDisk /dev/{YOUR_DISK_ID} GPT JHFS+ "GixxerUSB" 100%`
