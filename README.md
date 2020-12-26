@@ -62,7 +62,7 @@ View the list of [kexts](https://www.dualbootpc.com/software/kexts/) available o
   
 ## Releases
 
-See the latest [releases](https://github.com/Sipylus/Arctic-Fox/releases/tag/1.1.0) for the project.
+See the latest [releases](https://github.com/Sipylus/Arctic-Fox/releases) for the project.
   
 ## License
   
