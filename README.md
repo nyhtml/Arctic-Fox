@@ -48,7 +48,7 @@ Configure Clover
 ## Kernel Extensions
 
 * Mandatory from [Release v.0.1.0](https://github.com/Sipylus/Arctic-Fox/releases/tag/0.1.0)
-  * FakeSMC.kext
+  * FakeSMC.kext (substituted with VirtualSMC.kext in [Release v1.5.0](https://github.com/Sipylus/Arctic-Fox/releases/tag/1.5.0))
   * Lili.kext
   * WhateverGreen.kext
 
