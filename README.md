@@ -17,16 +17,16 @@ View the complete [build](https://www.dualbootpc.com/systems/desktop/arctic-fox/
 
 ## Prepare Install Media
 
-1. Download the [macOS Sierra installer](https://www.dualbootpc.com/software/system/macos/sierra/) (v10.12.6) from the Mac App Store.
-2. Open Terminal and format the target 32GB [USB drive](https://www.dualbootpc.com/hardware/usb/) as with the following command:
+1. Download the installer for [macOS Sierra](https://www.dualbootpc.com/software/system/macos/sierra/) from the Mac App Store.
+2. Open Terminal and format the target 16GB [USB drive](https://www.dualbootpc.com/hardware/usb/) with the following command:
 
-    `diskutil partitionDisk /dev/{YOUR_DISK_ID} GPT JHFS+ "GixxerUSB" 100%`
+    `diskutil partitionDisk /dev/{DISK_ID} GPT JHFS+ "GixxerUSB" 100%` 
     
-3. [Create the bootable macOS installer](https://www.dualbootpc.com/guide/creating-a-usb-installer/): 
+3. Partition the 16GB [USB drive](https://www.dualbootpc.com/hardware/usb/) and give 12 GB to the GixxerUSB and 4GB to Post Installation.
+4. [Create the bootable macOS installer](https://www.dualbootpc.com/guide/creating-a-usb-installer/): Works for [OS X Mavericks](https://www.dualbootpc.com/software/system/macos/mavericks/) through [macOS Big Sur](https://www.dualbootpc.com/software/system/macos/big-sur/).
 
     `sudo /Applications/Install\ macOS\ Sierra.app/Contents/Resources/createinstallmedia --volume /Volumes/GixxerUSB /Applications/Install\ macOS\ Sierra.app`
-
-4. Once the program finishes, your [USB drive](https://www.dualbootpc.com/hardware/usb/) should now be called the following:
+5. Once the program finishes, your [USB drive](https://www.dualbootpc.com/hardware/usb/) should now be called the following:
 
     `Install macOS Sierra`
     
@@ -34,21 +34,22 @@ View the complete [build](https://www.dualbootpc.com/systems/desktop/arctic-fox/
 
 Configure Clover
 
-* Download the included installer from [Release v0.1.0](https://github.com/Sipylus/Arctic-Fox/releases/tag/0.1.0)
-* Install Clover to the USB device and customize with the following options:
+* Download the included [Clover](https://www.dualbootpc.com/software/bootloader/clover/) 2.4k r4934 installer from [Release v0.1.0](https://github.com/Sipylus/Arctic-Fox/releases/tag/0.1.0)
+* Install Clover 2.4k r4934 to your [USB drive](https://www.dualbootpc.com/hardware/usb/) device and customize with the following options:
   * Clover for UEFI booting only
   * Install Clover in the ESP
   * UEFI Drivers
     * Recommended drivers
-      * ApfsDriverLoader
+      * ApfsDriverLoader-64.efi
       * HFSPlus
-    * Memory fix drivers
-      * OsxAptioFix3Drv
+      * OsxAptioFix3Drv-64.efi
+    * Optional drivers
+      * AudioDxe-64.efi (Enables Boot Sound in compatible themes)
       
 ## Kernel Extensions
 
 * Mandatory from [Release v.0.1.0](https://github.com/Sipylus/Arctic-Fox/releases/tag/0.1.0)
-  * FakeSMC.kext (substituted with VirtualSMC.kext in [Release v1.5.0](https://github.com/Sipylus/Arctic-Fox/releases/tag/1.5.0))
+  * FakeSMC.kext (swapped with VirtualSMC.kext in [Release v1.5.0](https://github.com/Sipylus/Arctic-Fox/releases/tag/1.5.0))
   * Lili.kext
   * WhateverGreen.kext
 
@@ -63,14 +64,18 @@ View the list of [kexts](https://www.dualbootpc.com/software/kexts/) available o
 ## Releases
 
 See the latest [releases](https://github.com/Sipylus/Arctic-Fox/releases) for the project.
+
+## Compatibility
+
+Up to [macOS Big Sur 11.1] on its own boot drive.
   
 ## License
   
-See the posted [MIT License](https://github.com/Sipylus/Arctic-Fox/blob/main/LICENSE).
+See the posted [MIT License](https://github.com/Sipylus/Arctic-Fox/blob/main/LICENSE) for details.
   
 ## Warranty
   
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR<br>
+THIS [ARCTIC FOX](https://github.com/Sipylus/Arctic-Fox/)  REPO IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR<br>
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,<br>
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE<br>
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER<br>
