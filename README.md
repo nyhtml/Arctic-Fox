@@ -7,6 +7,7 @@
 * [Prepare Install Media](#prepare-install-media)
 * [Install the Bootloader](#install-the-bootloader)
 * [Kernel Extensions](#kernel-extensions)
+* [Install to Boot Drive](#install-to-boot-drive)
 * [Releases](#releases)
 * [License](#license)
 
@@ -32,7 +33,7 @@ View the complete [build](https://www.dualbootpc.com/systems/desktop/arctic-fox/
     
 ## Install the Bootloader
 
-Configure Clover
+Configure Clover *Clobber Edition*
 
 * Download the included [Clover](https://www.dualbootpc.com/software/bootloader/clover/) 2.4k r4934 installer from [Release v0.1.0](https://github.com/Sipylus/Arctic-Fox/releases/tag/0.1.0)
 * Install Clover 2.4k r4934 to your [USB drive](https://www.dualbootpc.com/hardware/usb/) device and customize with the following options:
@@ -45,11 +46,12 @@ Configure Clover
       * OsxAptioFix3Drv-64.efi
     * Optional drivers
       * AudioDxe-64.efi (Enables Boot Sound in compatible themes)
+  * Install RC Scripts in target volume  
       
 ## Kernel Extensions
 
 * Mandatory from [Release v.0.1.0](https://github.com/Sipylus/Arctic-Fox/releases/tag/0.1.0)
-  * FakeSMC.kext (swapped with VirtualSMC.kext in [Release v1.5.0](https://github.com/Sipylus/Arctic-Fox/releases/tag/1.5.0))
+  * FakeSMC.kext (This will be swapped in [Release v1.5.0](https://github.com/Sipylus/Arctic-Fox/releases/tag/1.5.0) for future support of macOS Big Sur.)
   * Lili.kext
   * WhateverGreen.kext
 
@@ -60,7 +62,15 @@ Configure Clover
   * XHCI-200-series-injector.kext
 
 View the list of [kexts](https://www.dualbootpc.com/software/kexts/) available on GixxerPC: http://gixxer.us/3aS5d6m
-  
+
+## Install to Boot Drive
+
+With [Release v1.5.0](https://github.com/Sipylus/Arctic-Fox/releases/tag/1.5.0) and earlier applied to the 16GB [USB drive](https://www.dualbootpc.com/hardware/usb/), insert into a USB 2.0 and set as FIRST/PRIMARY in the BIOS settings.
+
+## BIOS Settings
+
+
+
 ## Releases
 
 See the latest [releases](https://github.com/Sipylus/Arctic-Fox/releases) for the project.
