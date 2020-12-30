@@ -36,17 +36,18 @@ View the complete [build](https://www.dualbootpc.com/systems/desktop/arctic-fox/
 Configure Clover *Clobber Edition*
 
 * Download the included [Clover](https://www.dualbootpc.com/software/bootloader/clover/) 2.4k r4934 installer from [Release v0.1.0](https://github.com/Sipylus/Arctic-Fox/releases/tag/0.1.0)
-* Install Clover 2.4k r4934 to your [USB drive](https://www.dualbootpc.com/hardware/usb/) device and customize with the following options:
+* Install Clover 2.4k r4934 to your 16GB [USB drive](https://www.dualbootpc.com/hardware/usb/) device and customize with the following options:
   * Clover for UEFI booting only
   * Install Clover in the ESP
   * UEFI Drivers
     * Recommended drivers
       * ApfsDriverLoader-64.efi
-      * HFSPlus
+      * HFSPlus.efi
       * OsxAptioFix3Drv-64.efi
     * Optional drivers
       * AudioDxe-64.efi (Enables Boot Sound in compatible themes)
-  * Install RC Scripts in target volume  
+  * Install RC Scripts in target volume
+  * Install Clover Preference Pane
       
 ## Kernel Extensions
 
