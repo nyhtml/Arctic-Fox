@@ -8,6 +8,7 @@
 * [Install the Bootloader](#install-the-bootloader)
 * [Kernel Extensions](#kernel-extensions)
 * [Install to Boot Drive](#install-to-boot-drive)
+
 * [Releases](#releases)
 * [License](#license)
 
