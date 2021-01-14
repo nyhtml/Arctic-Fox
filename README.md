@@ -73,27 +73,55 @@ View the list of [kexts](https://www.dualbootpc.com/software/kexts/) available o
 
 ## BIOS Settings
 
-<details><summary>M.I.T.</summary>
+## M.I.T.
+* Advanced Frequency Settings
+  * CPU Upgrade - i7-7700K CPU 4.6GHz
+* Advanced Memory Settings
+  * Extreme Memory Profile(X.M.P) - Profile1
+* Advanced Voltage Settings
+* PC Health Status
+* Miscellaneous Settings
 
-</details>
-<details><summary>System</summary>
+* Smart Fan 5 Settings<br>
+  * CPU Fan - Silent | CPU | 1 | Auto
+  * CPU OPT - Normal | CPU | 1 | Auto
+  * System 1 - Manual | VRM MOS | 1 Auto
+  * System 2 - Manual | VRM MOS | 1 Auto
+  * System Fan 3 Pump - Normal | CPU | 1 Auto 
 
-</details>
-<details><summary>BIOS</summary>
+## System
+* BIOS Version - F9d
+* System Language - English
+* System Date - Use the [release date](https://www.dualbootpc.com/guide/release-date/) for the macOS version.
 
-</details>
-<details><summary>Peripherals</summary>
+## BIOS
+* Full Screen LOGO Show - Enabled
+* Moouse Speed - 2 X
+* Windows 8/10 Features - Other OS
+* Storage Boot Control - Legacy
+* Other PCI devices - UEFI
 
-</details>
-<details><summary>Chipset</summary>
+## Peripherals
+* Initial Display Output - PCIe 1 Slot
+* USB Configuration
+  * Legacy USB Support - Enabled
+  * XHCI Handoff - Enabled
+  * USB Mass - Enabled
+  Port 60/64 Emulation - Enabled
+* SATA and RST Configuration
+  * SATA Controller(s) - Enabled
+  * SATA Mode Selection - AHCI
 
-</details>
-<details><summary>Power</summary>
+## Chipset
+* VT-d - Disabled
+* Internal Graphics - Disabled
 
-</details>
-<details><summary>Save &amp; Exit</summary>
+## Power
+* AC BACK - Memory
+* Soft-Off by PWR-BTTN - Delay 4 Sec.
 
-</details>
+## Save &amp; Exit
+* Save Profiles - Select File in USB
 
 ## Releases
 
@@ -101,7 +129,7 @@ See the latest [releases](https://github.com/Sipylus/Arctic-Fox/releases) for th
 
 ## Compatibility
 
-Up to [macOS Big Sur 11.1] on its own boot drive.
+Up to [macOS Big Sur 11.1](https://www.dualbootpc.com/software/system/macos/big-sur/) on its own boot drive.
   
 ## License
   
