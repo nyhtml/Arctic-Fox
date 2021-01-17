@@ -22,12 +22,12 @@ View the complete [build](https://www.dualbootpc.com/systems/desktop/arctic-fox/
 1. Download the installer for [macOS Sierra](https://www.dualbootpc.com/software/system/macos/sierra/) from the Mac App Store.
 2. Open Terminal and format the target 16GB [USB drive](https://www.dualbootpc.com/hardware/usb/) with the following command:
 
-    `diskutil partitionDisk /dev/{DISK_ID} GPT JHFS+ "GixxerUSB" 100%` 
+    `diskutil partitionDisk /dev/{DISK_ID} GPT JHFS+ "SierraUSB" 100%` 
     
 3. Partition the 16GB [USB drive](https://www.dualbootpc.com/hardware/usb/) and give 12 GB to the GixxerUSB and 4GB to Post Installation.
 4. [Create the bootable macOS installer](https://www.dualbootpc.com/guide/creating-a-usb-installer/): Works for [OS X Mavericks](https://www.dualbootpc.com/software/system/macos/mavericks/) through [macOS Big Sur](https://www.dualbootpc.com/software/system/macos/big-sur/).
 
-    `sudo /Applications/Install\ macOS\ Sierra.app/Contents/Resources/createinstallmedia --volume /Volumes/GixxerUSB /Applications/Install\ macOS\ Sierra.app`
+    `sudo /Applications/Install\ macOS\ Sierra.app/Contents/Resources/createinstallmedia --volume /Volumes/SierraUSB /Applications/Install\ macOS\ Sierra.app`
 5. Once the program finishes, your [USB drive](https://www.dualbootpc.com/hardware/usb/) should now be called the following:
 
     `Install macOS Sierra`
