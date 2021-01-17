@@ -1,6 +1,7 @@
-## BIOS Settings
+# BIOS Settings
+*B*asic *I*nput *O*utput *S*ystem
 
-## M.I.T.
+# M.I.T.
 * Advanced Frequency Settings
   * CPU Upgrade - i7-7700K CPU 4.6GHz
 * Advanced Memory Settings
@@ -16,19 +17,19 @@
   * System 2 - Manual | VRM MOS | 1 Auto
   * System Fan 3 Pump - Normal | CPU | 1 Auto 
 
-## System
+# System
 * BIOS Version - F9d
 * System Language - English
 * System Date - Use the [release date](https://www.dualbootpc.com/guide/release-date/) for the macOS version.
 
-## BIOS
+# BIOS
 * Full Screen LOGO Show - Enabled
 * Moouse Speed - 2 X
 * Windows 8/10 Features - Other OS
 * Storage Boot Control - Legacy
 * Other PCI devices - UEFI
 
-## Peripherals
+# Peripherals
 * Initial Display Output - PCIe 1 Slot
 * USB Configuration
   * Legacy USB Support - Enabled
@@ -39,13 +40,13 @@
   * SATA Controller(s) - Enabled
   * SATA Mode Selection - AHCI
 
-## Chipset
+# Chipset
 * VT-d - Disabled
 * Internal Graphics - Disabled
 
-## Power
+# Power
 * AC BACK - Memory
 * Soft-Off by PWR-BTTN - Delay 4 Sec.
 
-## Save &amp; Exit
+# Save &amp; Exit
 * Save Profiles - Select File in USB
