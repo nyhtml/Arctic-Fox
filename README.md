@@ -4,6 +4,7 @@
 ## Table of Contents
 
 * [The Build](#the-build)
+  * [BIOS Settings](/BIOS.md)
 * [Prepare Install Media](#prepare-install-media)
 * [Install the Bootloader](#install-the-bootloader)
 * [Kernel Extensions](#kernel-extensions)
