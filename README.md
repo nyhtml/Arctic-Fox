@@ -24,7 +24,7 @@ View the complete [specs](https://www.dualbootpc.com/systems/desktop/arctic-fox/
 
     `diskutil partitionDisk /dev/{DISK_ID} GPT JHFS+ "SierraUSB" 100%` 
     
-3. Partition the 16GB [USB drive](https://www.dualbootpc.com/hardware/usb/) and give 12 GB to the GixxerUSB and 4GB to Post Installation.
+3. Partition the 16GB [USB drive](https://www.dualbootpc.com/hardware/usb/) and give 12 GB to the SierraUSB and 4GB to Post Installation.
 4. [Create the bootable macOS installer](https://www.dualbootpc.com/guide/creating-a-usb-installer/): Works for [OS X Mavericks](https://www.dualbootpc.com/software/system/macos/mavericks/) through [macOS Big Sur](https://www.dualbootpc.com/software/system/macos/big-sur/).
 
     `sudo /Applications/Install\ macOS\ Sierra.app/Contents/Resources/createinstallmedia --volume /Volumes/SierraUSB /Applications/Install\ macOS\ Sierra.app`
