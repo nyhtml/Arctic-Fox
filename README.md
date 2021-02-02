@@ -63,7 +63,7 @@ Configure Clover *Clobber Edition*
   * USBInjectAll.kext
   * XHCI-200-series-injector.kext
 
-View the list of [kexts](https://www.dualbootpc.com/software/kexts/) available on GixxerPC: http://gixxer.us/3aS5d6m
+View the list of [kexts](https://www.dualbootpc.com/software/kexts/) available on GixxerPC: `http://gixxer.us/3aS5d6m`
 
 ## Install to Boot Drive
 
