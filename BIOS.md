@@ -9,7 +9,6 @@
 * Advanced Voltage Settings
 * PC Health Status
 * Miscellaneous Settings
-
 * Smart Fan 5 Settings<br>
   * CPU Fan - Silent | CPU | 1 | Auto
   * CPU OPT - Normal | CPU | 1 | Auto
