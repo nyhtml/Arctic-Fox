@@ -20,11 +20,11 @@ View the complete [specs](https://www.dualbootpc.com/systems/desktop/arctic-fox/
 ## :fox_face: Prepare Install Media
 
 1. Download the installer for [macOS Sierra](https://www.dualbootpc.com/software/system/macos/sierra/) from the Mac App Store.
-2. Open Terminal and format the target 16GB [USB drive](https://www.dualbootpc.com/hardware/usb/) with the following command:
+2. Open Terminal and format the target 16 GB [USB drive](https://www.dualbootpc.com/hardware/usb/) with the following command:
 
     `diskutil partitionDisk /dev/{DISK_ID} GPT JHFS+ "HighSierraUSB" 100%` 
     
-3. Partition the 16GB [USB drive](https://www.dualbootpc.com/hardware/usb/) and give 12 GB to the SierraUSB and 4GB to Post Installation.
+3. Partition the 16 GB [USB drive](https://www.dualbootpc.com/hardware/usb/) and give 12 GB to the SierraUSB and 4 GB to Post Installation.
 4. [Create the bootable macOS installer](https://www.dualbootpc.com/guide/creating-a-usb-installer/): Works for [OS X Mavericks](https://www.dualbootpc.com/software/system/macos/mavericks/) through [macOS Big Sur](https://www.dualbootpc.com/software/system/macos/big-sur/).
 
     `sudo /Applications/Install\ macOS\ High\ Sierra.app/Contents/Resources/createinstallmedia --volume /Volumes/HighSierraUSB --applicationpath /Applications/Install\ macOS\ High\ Sierra.app`
@@ -37,7 +37,7 @@ View the complete [specs](https://www.dualbootpc.com/systems/desktop/arctic-fox/
 Configure Clover *Clobber Edition*
 
 * Download the included [Clover](https://www.dualbootpc.com/software/bootloader/clover/) 2.4k r4934 installer from [Release v0.1.0](https://github.com/Sipylus/Arctic-Fox/releases/tag/0.1.0)
-* Install Clover 2.4k r4934 to your 16GB [USB drive](https://www.dualbootpc.com/hardware/usb/) device and customize with the following options:
+* Install Clover 2.4k r4934 to your 16 GB [USB drive](https://www.dualbootpc.com/hardware/usb/) device and customize with the following options:
   * Clover for UEFI booting only
   * Install Clover in the ESP
   * UEFI Drivers
@@ -48,7 +48,7 @@ Configure Clover *Clobber Edition*
     * Recommended drivers
       * AudioDxe-64.efi (Enables Boot Sound in compatible themes)
   * Install RC Scripts in target volume
-  * Install Clover Preference Pane
+  * Install Clover Preference Pane (If greyed out, repeat during 
       
 ## :fox_face: Kernel Extensions
 
