@@ -13,7 +13,7 @@
 * [License](#license)
 
 
-## :fox_face: The Build
+## The Build :fox_face:
 
 View the complete [specs](https://www.dualbootpc.com/systems/desktop/arctic-fox/specs/) for the build on GixxerPC: `http://gixxer.us/2Jslljx`
 
