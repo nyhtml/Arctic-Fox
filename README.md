@@ -1,4 +1,4 @@
-# Arctic Fox
+#  :fox_face: Arctic Fox
 *A*nother *R*e-engineered *C*omputer *T*hat *I*ncorporates *C*oding *F*rom *O*S *Xcode*
 
 ## Table of Contents
