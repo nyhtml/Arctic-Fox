@@ -11,6 +11,7 @@
 * [Install to Boot Drive](#install-to-boot-drive)
 * [Releases](#releases)
 * [License](#license)
+* [Warranty](#warranty)
 
 
 ## The Build
