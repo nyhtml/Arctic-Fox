@@ -4,7 +4,14 @@
 ## Table of Contents
 
 * [The Build](#the-build)
-  * [BIOS Settings](/BIOS.md)
+  * [BIOS Settings](#bios-settings)
+    * M.I.T.
+    * System
+    * BIOS
+    * Peripherals
+    * Chipset
+    * Power
+    * Save & Exit
 * [Prepare Install Media](#prepare-install-media)
 * [Install the Bootloader](#install-the-bootloader)
 * [Kernel Extensions](#kernel-extensions)
@@ -17,6 +24,10 @@
 ## The Build
 
 View the complete [specs](https://www.dualbootpc.com/systems/desktop/arctic-fox/specs/) for the build on GixxerPC: `http://gixxer.us/2Jslljx`
+
+## BIOS Settings
+
+For a complete list of [BIOS Settings](/BIOS.md), please refer to the accompanying wiki.
 
 ## Prepare Install Media
 
