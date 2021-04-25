@@ -20,7 +20,6 @@
 * [License](#license)
 * [Warranty](#warranty)
 
-
 ## The Build
 
 View the complete [specs](https://www.dualbootpc.com/systems/desktop/arctic-fox/specs/) for the build on GixxerPC: `http://gixxer.us/2Jslljx`
