@@ -20,13 +20,13 @@ View the complete [specs](https://www.dualbootpc.com/systems/desktop/arctic-fox/
 ## BIOS Settings
 
 For a complete list of [BIOS Settings](/BIOS.md), please refer to the accompanying wiki.
-    * M.I.T.
-    * System
-    * BIOS
-    * Peripherals
-    * Chipset
-    * Power
-    * Save & Exit
+ * M.I.T.
+ * System
+ * BIOS
+ * Peripherals
+ * Chipset
+ * Power
+ * Save & Exit
 
 ## Prepare Install Media
 
