@@ -93,7 +93,7 @@ See the latest [releases](https://github.com/Sipylus/Arctic-Fox/releases) for th
   * [macOS High Sierra](https://www.dualbootpc.com/software/system/macos/high-sierra/) 
   * [macOS Mojave](https://www.dualbootpc.com/software/system/macos/mojave/)
   * [macOS Catalina](https://www.dualbootpc.com/software/system/macos/mojave/)
-  * [macOS Big Sur](https://www.dualbootpc.com/software/system/macos/)on its own boot drive.
+  * [macOS Big Sur](https://www.dualbootpc.com/software/system/macos/)(on its own boot drive)
 * Ubuntu
   * [Ubuntu Desktop](https://www.dualbootpc.com/software/system/ubuntu/desktop/)
 * Windows
