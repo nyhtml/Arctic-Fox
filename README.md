@@ -88,7 +88,18 @@ See the latest [releases](https://github.com/Sipylus/Arctic-Fox/releases) for th
 
 ## Compatibility
 
-Up to [macOS Big Sur 11.1](https://www.dualbootpc.com/software/system/macos/big-sur/) on its own boot drive.
+* macOS
+  * [macOS Sierra](https://www.dualbootpc.com/software/system/macos/sierra/)
+  * [macOS High Sierra](https://www.dualbootpc.com/software/system/macos/high-sierra/) 
+  * [macOS Mojave](https://www.dualbootpc.com/software/system/macos/mojave/)
+  * [macOS Catalina](https://www.dualbootpc.com/software/system/macos/mojave/)
+  * [macOS Big Sur](https://www.dualbootpc.com/software/system/macos/)on its own boot drive.
+* Ubuntu
+  * [Ubuntu Desktop](https://www.dualbootpc.com/software/system/ubuntu/desktop/)
+* Windows
+  * [Windows 7](https://www.dualbootpc.com/software/system/windows/seven/)
+  * [Windows 8](https://www.dualbootpc.com/software/system/windows/eight/)
+  * [Windows 10](https://www.dualbootpc.com/software/system/windows/ten/) 
   
 ## License
   
