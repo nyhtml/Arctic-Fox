@@ -1,6 +1,15 @@
 # BIOS Settings
 *B*asic *I*nput *O*utput *S*ystem
 
+## Table of Contents
+ * [M.I.T.](/BIOS.md#fox_face-mit)
+ * [System](/BIOS.md#fox_face-system)
+ * [BIOS](/BIOS.md#fox_face-bios)
+ * [Peripherals](/BIOS.md#fox_face-peripherals)
+ * [Chipset](/BIOS.md#fox_face-chipset)
+ * [Power](/BIOS.md#fox_face-power)
+ * [Save & Exit](/BIOS.md#fox_face-save--exit)
+
 # :fox_face: M.I.T.
 * Advanced Frequency Settings
   * CPU Upgrade - i7-7700K CPU 4.6GHz
