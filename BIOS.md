@@ -39,6 +39,9 @@
 
 # :fox_face: Peripherals
 * Initial Display Output - PCIe 1 Slot
+* Intel Platform Trust Technology (PTT) - Enabled
+* Trusted Computing
+  * Security device Support - Enable
 * USB Configuration
   * Legacy USB Support - Enabled
   * XHCI Handoff - Enabled
