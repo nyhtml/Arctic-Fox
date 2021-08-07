@@ -38,7 +38,7 @@
 * Other PCI devices - UEFI
 
 # :fox_face: Peripherals
-* Initial Display Output - PCIe 1 Slot
+* Initial Display Output - IGFX (Motherboard) or PCIe 1 Slot (AMD/Nvidia GPU)
 * Intel Platform Trust Technology (PTT) - Enabled
 * Trusted Computing
   * Security device Support - Enable
@@ -53,7 +53,7 @@
 
 # :fox_face: Chipset
 * VT-d - Disabled
-* Internal Graphics - Disabled
+* Internal Graphics - Auto or Enabled
 
 # :fox_face: Power
 * AC BACK - Memory
