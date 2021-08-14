@@ -55,7 +55,7 @@ Configure Clover *Clobber Edition*
     * Recommended drivers
       * AudioDxe-64.efi (Enables Boot Sound in compatible themes)
   * Install RC Scripts in target volume
-  * Install Clover Preference Pane (If greyed out, repeat during Post Installation)
+  * Install Clover Preference Pane (Select during Post Installation)
       
 ## Kernel Extensions
 * Mandatory from [Release v.0.1.0](https://github.com/Sipylus/Arctic-Fox/releases/tag/0.1.0)
