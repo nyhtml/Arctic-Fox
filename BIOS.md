@@ -13,6 +13,7 @@
 # :fox_face: M.I.T.
 * Advanced Frequency Settings
   * CPU Upgrade - i7-7700K CPU 4.6GHz
+  * Extreme Memory Profile(X.M.P) - Profile1
 * Advanced Memory Settings
   * Extreme Memory Profile(X.M.P) - Profile1
 * Advanced Voltage Settings
