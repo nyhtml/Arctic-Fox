@@ -54,7 +54,14 @@
 
 # :fox_face: Chipset
 * VT-d - Disabled
-* Internal Graphics - Auto or Enabled
+* Internal Graphics - Enabled
+  * DVMT Pre-Allocated - 96M
+  * DVMT Total Gfx mem - 128M
+* Audio Controller - Enabled
+* PCH LAN Controller - Enabled
+  * Wake on LAN Enable - Enabled
+* High Precision Timer - Enabled
+* IOAPIC 24-119 Entries - Enabled
 
 # :fox_face: Power
 * AC BACK - Memory
