@@ -41,8 +41,7 @@ For a complete list of [BIOS Settings](/BIOS.md), please refer to the accompanyi
     `Install macOS High Sierra`
     
 ## Install the Bootloader
-Configure Clover *Clobber Edition*
-
+USB Flash Drive
 * Download the included [Clover](https://www.dualbootpc.com/software/bootloader/clover/) 2.4k r4934 installer from [Release v0.1.0](https://github.com/Sipylus/Arctic-Fox/releases/tag/0.1.0)
 * Install Clover 2.4k r4934 to your 16 GB [USB drive](https://www.dualbootpc.com/hardware/usb/) device and customize with the following options:
   * Clover for UEFI booting only
@@ -54,8 +53,15 @@ Configure Clover *Clobber Edition*
       * HFSPlus.efi
     * Recommended drivers
       * AudioDxe-64.efi (Enables Boot Sound in compatible themes)
+
+Boot Drive
+* Use the [Clover](https://www.dualbootpc.com/software/bootloader/clover/) 2.4k r4934 installer previously downloaded from [Release v0.1.0](https://github.com/Sipylus/Arctic-Fox/releases/tag/0.1.0)
+* Export the **BOOT** and the **CLOVER** from the EFI Folder on the USB Flash Drive and import to the EFI Folder on the boot drive.
+* Renstall Clover 2.4k r4934 to your boot drive and customize with the **additional** options:
   * Install RC Scripts in target volume
   * Install Clover Preference Pane (Select during Post Installation)
+  * Eject the USB Flash Drive and restart to the BIOS.
+  * Set the boot drive as the Primary and exit.
       
 ## Kernel Extensions
 * Mandatory from [Release v.0.1.0](https://github.com/Sipylus/Arctic-Fox/releases/tag/0.1.0)
@@ -81,7 +87,8 @@ See the latest [releases](https://github.com/Sipylus/Arctic-Fox/releases) for th
 
 ## Compatibility
 * macOS
-  * [macOS Big Sur](https://www.dualbootpc.com/software/system/macos/) (on its own boot drive)
+  * [macOS Montery](https://www.dualbootpc.com/software/system/macos/montery/) (undergoing stability testing)
+  * [macOS Big Sur](https://www.dualbootpc.com/software/system/macos/big-sur/) (on its own boot drive)
   * [macOS Catalina](https://www.dualbootpc.com/software/system/macos/mojave/)
   * [macOS Mojave](https://www.dualbootpc.com/software/system/macos/mojave/)
   * [macOS High Sierra](https://www.dualbootpc.com/software/system/macos/high-sierra/) 
@@ -98,7 +105,7 @@ See the latest [releases](https://github.com/Sipylus/Arctic-Fox/releases) for th
 See the posted [MIT License](https://github.com/Sipylus/Arctic-Fox/blob/main/LICENSE) for details.
   
 ## Warranty
-THIS [ARCTIC FOX](https://github.com/Sipylus/Arctic-Fox/)  REPO IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR<br>
+THIS [ARCTIC FOX](https://github.com/Sipylus/Arctic-Fox/) REPO IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR<br>
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,<br>
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE<br>
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER<br>
