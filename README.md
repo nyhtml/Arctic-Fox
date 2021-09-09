@@ -41,7 +41,7 @@ For a complete list of [BIOS Settings](/BIOS.md), please refer to the accompanyi
     `Install macOS High Sierra`
     
 ## Install the Bootloader
-USB Flash Drive
+**USB Flash Drive**
 * Download the included [Clover](https://www.dualbootpc.com/software/bootloader/clover/) 2.4k r4934 installer from [Release v0.1.0](https://github.com/Sipylus/Arctic-Fox/releases/tag/0.1.0)
 * Install Clover 2.4k r4934 to your 16 GB [USB drive](https://www.dualbootpc.com/hardware/usb/) device and customize with the following options:
   * Clover for UEFI booting only
@@ -54,14 +54,14 @@ USB Flash Drive
     * Recommended drivers
       * AudioDxe-64.efi (Enables Boot Sound in compatible themes)
 
-Boot Drive
+**Boot Drive**
 * Use the [Clover](https://www.dualbootpc.com/software/bootloader/clover/) 2.4k r4934 installer previously downloaded from [Release v0.1.0](https://github.com/Sipylus/Arctic-Fox/releases/tag/0.1.0)
 * Export the **BOOT** and the **CLOVER** from the EFI Folder on the USB Flash Drive and import to the EFI Folder on the boot drive.
-* Renstall Clover 2.4k r4934 to your boot drive and customize with the **additional** options:
+* Install Clover 2.4k r4934 to your boot drive and customize with the **additional** options:
   * Install RC Scripts in target volume
   * Install Clover Preference Pane (Select during Post Installation)
-  * Eject the USB Flash Drive and restart to the BIOS.
-  * Set the boot drive as the Primary and exit.
+* Eject all USB Flash Drives and restart to the BIOS.
+* Set the boot drive with Clover as the Primary and exit.
       
 ## Kernel Extensions
 * Mandatory from [Release v.0.1.0](https://github.com/Sipylus/Arctic-Fox/releases/tag/0.1.0)
