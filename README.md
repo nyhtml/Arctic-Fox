@@ -55,9 +55,9 @@ For a complete list of [BIOS Settings](/BIOS.md), please refer to the accompanyi
       * AudioDxe-64.efi (Enables Boot Sound in compatible themes)
 
 **Boot Drive**
-* Use the [Clover](https://www.dualbootpc.com/software/bootloader/clover/) 2.4k r4934 installer previously downloaded from [Release v0.1.0](https://github.com/Sipylus/Arctic-Fox/releases/tag/0.1.0)
+* Get [Clover](https://www.dualbootpc.com/software/bootloader/clover/) 2.5k r5118 installer  from [Release v1.4.0](https://github.com/Sipylus/Arctic-Fox/releases/tag/1.4.0)
 * Export the **BOOT** and the **CLOVER** from the EFI Folder on the USB Flash Drive and import to the EFI Folder on the boot drive.
-* Install Clover 2.4k r4934 to your boot drive and customize with the **additional** options:
+* Install Clover 2.5k r5118 to your boot drive and customize with the **additional** options:
   * Install RC Scripts in target volume
   * Install Clover Preference Pane (Select during Post Installation)
 * Eject all USB Flash Drives and restart to the BIOS.
