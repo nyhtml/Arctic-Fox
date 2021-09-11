@@ -55,7 +55,6 @@ For a complete list of [BIOS Settings](/BIOS.md), please refer to the accompanyi
       * AudioDxe-64.efi (Enables Boot Sound in compatible themes)
 
 **Boot Drive**
-* Get [Clover](https://www.dualbootpc.com/software/bootloader/clover/) 2.5k r5118 installer  from [Release v1.4.0](https://github.com/Sipylus/Arctic-Fox/releases/tag/1.4.0)
 * Export the **BOOT** and the **CLOVER** from the EFI Folder on the USB Flash Drive and import to the EFI Folder on the boot drive.
 * Install Clover 2.5k r5118 to your boot drive and customize with the **additional** options:
   * Install RC Scripts in target volume
@@ -71,9 +70,15 @@ For a complete list of [BIOS Settings](/BIOS.md), please refer to the accompanyi
 
 * Post Installation from [Release v.1.1.0](https://github.com/Sipylus/Arctic-Fox/releases/tag/1.1.0)
   * AppleALC.kext
-  * IntelMausiEthernet.kext
+  * IntelMausiEthernet.kext (This will be swapped in [Release v1.5.1](https://github.com/Sipylus/Arctic-Fox/releases/tag/1.5.1) for future support of macOS Big Sur.)
   * USBInjectAll.kext
   * XHCI-200-series-injector.kext
+
+* Optional
+  * CPUFriend.kext
+  * RealtekRTL8111.kext (PCI-e Wi-Fi)
+  * RtWlanU.kext (USB Wi-Fi)
+  * RtWlanU1827.kext (USB Wi-Fi)
 
 View the list of [kexts](https://www.dualbootpc.com/software/kexts/) available on GixxerPC: `http://gixxer.us/3aS5d6m`
 
