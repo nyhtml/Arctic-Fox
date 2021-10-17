@@ -7,6 +7,9 @@
 * [Prepare Install Media](#prepare-install-media)
 * [Install the Bootloader](#install-the-bootloader)
 * [Kernel Extensions](#kernel-extensions)
+  * [Mandatory](#mandatory)
+  * [Post Installation](#post-installation)
+  * [Optional](#optional)
 * [Install to Boot Drive](#install-to-boot-drive)
 * [Releases](#releases)
 * [Compatibility](#compatibility)
@@ -63,18 +66,18 @@ For a complete list of [BIOS Settings](/BIOS.md), please refer to the accompanyi
 * Set the boot drive with Clover as the Primary and exit.
       
 ## Kernel Extensions
-* Mandatory from [Release v.0.1.0](https://github.com/Sipylus/Arctic-Fox/releases/tag/0.1.0)
+### [Mandatory](https://github.com/Sipylus/Arctic-Fox/releases/tag/0.1.0)
   * FakeSMC.kext (This will be swapped in [Release v1.5.0](https://github.com/Sipylus/Arctic-Fox/releases/tag/1.5.0) for future support of macOS Big Sur.)
   * Lili.kext
   * WhateverGreen.kext
 
-* Post Installation from [Release v.1.1.0](https://github.com/Sipylus/Arctic-Fox/releases/tag/1.1.0)
+### [Post Installation](https://github.com/Sipylus/Arctic-Fox/releases/tag/1.1.0)
   * AppleALC.kext
   * IntelMausiEthernet.kext (This will be swapped in [Release v1.5.1](https://github.com/Sipylus/Arctic-Fox/releases/tag/1.5.1) for future support of macOS Big Sur.)
   * USBInjectAll.kext
   * XHCI-200-series-injector.kext
 
-* Optional
+### [Optional](https://github.com/nyhtml/KEANU)
   * CPUFriend.kext
   * RealtekRTL8111.kext (PCI-e Wi-Fi)
   * RtWlanU.kext (USB Wi-Fi)
