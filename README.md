@@ -88,7 +88,7 @@ View the list of [kexts](https://www.dualbootpc.com/software/kexts/) available o
 ## Install to Boot Drive
 1. With [Release v1.5.0](https://github.com/Sipylus/Arctic-Fox/releases/tag/1.5.0) and earlier applied to the 16GB [USB drive](https://www.dualbootpc.com/hardware/usb/), insert into a USB 2.0 and set as FIRST/PRIMARY in the BIOS settings.
 
-2. Before exiting the BIOS, change the system date to match the [release date](https://www.dualbootpc.com/guide/release-date/) on workaround list.
+2. Before exiting, change the system date to match the macOS [release date](https://www.dualbootpc.com/guide/release-date/) on the workaround list.
 
 ## Releases
 See the latest [releases](https://github.com/Sipylus/Arctic-Fox/releases) for the project.
