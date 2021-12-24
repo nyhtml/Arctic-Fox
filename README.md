@@ -11,6 +11,8 @@
   * [Post Installation](#post-installation)
   * [Optional](#optional)
 * [Install to Boot Drive](#install-to-boot-drive)
+  * USB Flash Drive
+  * Boot Drive
 * [Releases](#releases)
 * [Compatibility](#compatibility)
 * [License](#license)
@@ -30,18 +32,18 @@ For a complete list of [BIOS Settings](/BIOS.md), please refer to the accompanyi
  * [Save & Exit](/BIOS.md#fox_face-save--exit)
 
 ## Prepare Install Media
-1. Download the installer for [macOS High Sierra](https://www.dualbootpc.com/software/system/macos/high-sierra/) from the Mac App Store.
+1. Download the installer for [macOS Sierra](https://www.dualbootpc.com/software/system/macos/sierra/) from the Mac App Store.
 2. Open Terminal and format the target 16 GB [USB drive](https://www.dualbootpc.com/hardware/usb/) with the following command:
 
-    `diskutil partitionDisk /dev/{DISK_ID} GPT JHFS+ "HighSierraUSB" 100%` 
+    `diskutil partitionDisk /dev/{DISK_ID} GPT JHFS+ "SierraUSB" 100%` 
     
-3. Partition the 16 GB [USB drive](https://www.dualbootpc.com/hardware/usb/) and give 12 GB to the **HighSierraUSB** and 4 GB to **Post Installation**.
-4. [Create the bootable macOS installer](https://www.dualbootpc.com/guide/creating-a-usb-installer/): Works for [OS X Mavericks](https://www.dualbootpc.com/software/system/macos/mavericks/) through [macOS Big Sur](https://www.dualbootpc.com/software/system/macos/big-sur/).
+3. Partition the 16 GB [USB drive](https://www.dualbootpc.com/hardware/usb/) and give 12 GB to the **SierraUSB** and 4 GB to **Post Installation**.
+4. [Create the bootable macOS installer](https://www.dualbootpc.com/guide/creating-a-usb-installer/): Instructions works for [OS X Mavericks](https://www.dualbootpc.com/software/system/macos/mavericks/) through [macOS Monterey](https://www.dualbootpc.com/software/system/macos/monterey/).
 
-    `sudo /Applications/Install\ macOS\ High\ Sierra.app/Contents/Resources/createinstallmedia --volume /Volumes/HighSierraUSB --applicationpath /Applications/Install\ macOS\ High\ Sierra.app`
+    `sudo /Applications/Install\ macOS\ Sierra.app/Contents/Resources/createinstallmedia --volume /Volumes/SierraUSB --applicationpath /Applications/Install\ macOS\ Sierra.app`
 5. Once the program finishes in the Terminal, your [USB drive](https://www.dualbootpc.com/hardware/usb/) will be called the following:
 
-    `Install macOS High Sierra`
+    `Install macOS Sierra`
     
 ## Install the Bootloader
 **USB Flash Drive**
