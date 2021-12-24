@@ -61,7 +61,7 @@ For a complete list of [BIOS Settings](/BIOS.md), please refer to the accompanyi
 
 **Boot Drive**
 * Export the **BOOT** and the **CLOVER** from the EFI Folder on the USB Flash Drive and import to the EFI Folder on the boot drive.
-* Install Clover 2.5k r5118 to your boot drive and customize with the **additional** options:
+* Install [Clover 2.5k r5119](https://github.com/Sipylus/Arctic-Fox/releases/tag/1.6.4) to your boot drive and customize with the **additional** options:
   * Install RC Scripts in target volume
   * Install Clover Preference Pane (Select during Post Installation)
 * Eject all USB Flash Drives and restart to the BIOS.
