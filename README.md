@@ -97,8 +97,7 @@ See the latest [releases](https://github.com/Sipylus/Arctic-Fox/releases) for th
 
 ## Compatibility
 * macOS
-  * [macOS Montery](https://www.dualbootpc.com/software/system/macos/montery/) (undergoing stability testing)
-  * [macOS Big Sur](https://www.dualbootpc.com/software/system/macos/big-sur/) (on its own boot drive)
+  * [macOS Big Sur](https://www.dualbootpc.com/software/system/macos/big-sur/)
   * [macOS Catalina](https://www.dualbootpc.com/software/system/macos/mojave/)
   * [macOS Mojave](https://www.dualbootpc.com/software/system/macos/mojave/)
   * [macOS High Sierra](https://www.dualbootpc.com/software/system/macos/high-sierra/) 
