@@ -105,7 +105,7 @@ See the latest [releases](https://github.com/Sipylus/Arctic-Fox/releases) for th
 * Ubuntu
   * [Ubuntu Desktop](https://www.dualbootpc.com/software/system/ubuntu/desktop/)
 * Windows
-  * [Windows 11](https://www.dualbootpc.com/software/system/windows/eleven/) (Build 22000 and earlier)
+  * [Windows 11](https://www.dualbootpc.com/software/system/windows/eleven/)
   * [Windows 10](https://www.dualbootpc.com/software/system/windows/ten/) 
   * [Windows 8](https://www.dualbootpc.com/software/system/windows/eight/)
   * [Windows 7](https://www.dualbootpc.com/software/system/windows/seven/)
