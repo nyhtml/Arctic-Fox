@@ -58,6 +58,7 @@ For a complete list of [BIOS Settings](/BIOS.md), please refer to the accompanyi
       * HFSPlus.efi
     * Recommended drivers
       * AudioDxe-64.efi (Enables Boot Sound in compatible themes)
+      * NvmExpress-64.efi (Enabled The Detection of the NVMe drive)
 
 **Boot Drive**
 * Export the **BOOT** and the **CLOVER** from the EFI Folder on the USB Flash Drive and import to the EFI Folder on the boot drive.
