@@ -19,6 +19,8 @@
 * [Warranty](#warranty)
 
 ## The Build
+ * 1 x Intel Series compatible motherboard.
+ * 1 x Intel(R) Core(TM) Processor.
 View the complete [specs](https://www.dualbootpc.com/systems/desktop/arctic-fox/specs/) at `http://gixxer.us/2Jslljx`
 
 ## BIOS Settings
