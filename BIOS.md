@@ -33,6 +33,7 @@
 
 # :fox_face: BIOS
 * Full Screen LOGO Show - Enabled
+* Boot Option #1 - UEFI:OS (P0: Samsund SSD)
 * Mouse Speed - 2 X
 * Windows 8/10 Features - Other OS
 * Storage Boot Control - Legacy
