@@ -7,4 +7,4 @@
 * [German (de)](/README/German.md)
 * [Spanish (es)](/README/Spanish.md)
 * [Japanese (ja)](/README/Japanese.md)
-* Simplified Chinese (zh-cn)](/README/Chinese.md)
+* [Simplified Chinese (zh-cn)](/README/Chinese.md)
