@@ -22,7 +22,7 @@
 View the complete [specs](https://www.dualbootpc.com/systems/desktop/arctic-fox/specs/) at `http://gixxer.us/2Jslljx`
 
 ## BIOS Settings
-Please refer to the accompanying wiki for a complete list of [BIOS Settings](/BIOS.md).
+Please look at the wiki I've attached for a complete list of [BIOS Settings](/BIOS.md).
  * [M.I.T.](/BIOS.md#fox_face-mit)
  * [System](/BIOS.md#fox_face-system)
  * [BIOS](/BIOS.md#fox_face-bios)
