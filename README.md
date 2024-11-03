@@ -2,9 +2,9 @@
 *A*nother *R*e-engineered *C*omputer *T*hat *I*ncorporates *C*oding *F*rom *O*S *Xcode*
 
 **Languages**
-* [English (en-us)](/README/English.md)
-* [French (fr)](/README/French.md)
-* [German (de)](/README/German.md)
-* [Spanish (es)](/README/Spanish.md)
-* [Japanese (ja)](/README/Japanese.md)
-* [Simplified Chinese (zh-cn)](/README/Chinese.md)
+* [English (en-us)](/English/README.md)
+* [French (fr)](/French/README.md)
+* [German (de)](/German/README.md)
+* [Spanish (es)](/Spanish/README.md)
+* [Japanese (ja)](/Japanese/README.md)
+* [Simplified Chinese (zh-cn)](/Chinese/README.md)
