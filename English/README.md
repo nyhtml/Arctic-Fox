@@ -47,7 +47,7 @@ Please look at the wiki I've attached for a complete list of [BIOS Settings](/En
     
 ## Install the Bootloader
 **USB Flash Drive**
-* Download the included [Clover](https://www.dualbootpc.com/software/bootloader/clover/) 2.4k r4934 installer from [Release v0.1.0](https://github.com/Sipylus/Arctic-Fox/releases/tag/0.1.0)
+* Download the included [Clover](https://www.dualbootpc.com/software/bootloader/clover/) 2.4k r4934 installer from [Release v0.1.0](https://github.com/nyhtml/Arctic-Fox/releases/tag/0.1.0)
 * Install Clover 2.4k r4934 to your 16 GB [USB drive](https://www.dualbootpc.com/hardware/usb/) device and customize with the following options:
   * Clover for UEFI booting only
   * Install Clover in the ESP
@@ -62,21 +62,21 @@ Please look at the wiki I've attached for a complete list of [BIOS Settings](/En
 
 **Boot Drive**
 * Export the **BOOT** and the **CLOVER** from the EFI Folder on the USB Flash Drive and import to the EFI Folder on the boot drive.
-* Install [Clover 2.5k r5119](https://github.com/Sipylus/Arctic-Fox/releases/tag/1.6.4) to your boot drive and customize with the **additional** options:
+* Install [Clover 2.5k r5119](https://github.com/nyhtml/Arctic-Fox/releases/tag/1.6.4) to your boot drive and customize with the **additional** options:
   * Install RC Scripts in target volume
   * Install Clover Preference Pane (Select during Post Installation)
 * Eject all USB Flash Drives and restart to the BIOS.
 * Set the boot drive with Clover as the Primary and exit.
       
 ## Kernel Extensions
-### [Mandatory](https://github.com/Sipylus/Arctic-Fox/releases/tag/0.1.0)
-  * FakeSMC.kext (This will be swapped in [Release v1.5.0](https://github.com/Sipylus/Arctic-Fox/releases/tag/1.5.0) for future support of macOS Big Sur.)
+### [Mandatory](https://github.com/nyhtml/Arctic-Fox/releases/tag/0.1.0)
+  * FakeSMC.kext (This will be swapped in [Release v1.5.0](https://github.com/nyhtml/Arctic-Fox/releases/tag/1.5.0) for future support of macOS Big Sur.)
   * Lili.kext
   * WhateverGreen.kext
 
-### [Post Installation](https://github.com/Sipylus/Arctic-Fox/releases/tag/1.1.0)
+### [Post Installation](https://github.com/nyhtml/Arctic-Fox/releases/tag/1.1.0)
   * AppleALC.kext
-  * IntelMausiEthernet.kext (This will be swapped in [Release v1.5.1](https://github.com/Sipylus/Arctic-Fox/releases/tag/1.5.1) for future support of macOS Big Sur.)
+  * IntelMausiEthernet.kext (This will be swapped in [Release v1.5.1](https://github.com/nyhtml/Arctic-Fox/releases/tag/1.5.1) for future support of macOS Big Sur.)
   * USBInjectAll.kext
   * XHCI-200-series-injector.kext
 
@@ -89,12 +89,12 @@ Please look at the wiki I've attached for a complete list of [BIOS Settings](/En
 View the list of [kexts](https://www.dualbootpc.com/software/kexts/) available on GixxerPC: `http://gixxer.us/3aS5d6m`
 
 ## Install to Boot Drive
-1. With [Release v1.5.0](https://github.com/Sipylus/Arctic-Fox/releases/tag/1.5.0) and earlier applied to the 16GB [USB drive](https://www.dualbootpc.com/hardware/usb/), insert into a USB 2.0 and set as FIRST/PRIMARY in the BIOS settings.
+1. With [Release v1.5.0](https://github.com/nyhtml/Arctic-Fox/releases/tag/1.5.0) and earlier applied to the 16GB [USB drive](https://www.dualbootpc.com/hardware/usb/), insert into a USB 2.0 and set as FIRST/PRIMARY in the BIOS settings.
 
 2. Before exiting, change the system date to match the macOS [release date](https://www.dualbootpc.com/guide/release-date/) on the workaround list.
 
 ## Releases
-See the latest [releases](https://github.com/Sipylus/Arctic-Fox/releases) for the project.
+See the latest [releases](https://github.com/nyhtml/Arctic-Fox/releases) for the project.
 
 ## Compatibility
 * macOS
@@ -112,10 +112,10 @@ See the latest [releases](https://github.com/Sipylus/Arctic-Fox/releases) for th
   * [Windows 7](https://www.dualbootpc.com/software/system/windows/seven/)
 
 ## License
-See the posted [MIT License](https://github.com/Sipylus/Arctic-Fox/blob/main/LICENSE) for details.
+See the posted [MIT License](https://github.com/nyhtml/Arctic-Fox/blob/main/LICENSE) for details.
   
 ## Warranty
-THIS [ARCTIC FOX](https://github.com/Sipylus/Arctic-Fox/) REPO IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR<br>
+THIS [ARCTIC FOX](https://github.com/nyhtml/Arctic-Fox/) REPO IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR<br>
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,<br>
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE<br>
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER<br>
