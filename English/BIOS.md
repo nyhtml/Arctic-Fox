@@ -2,13 +2,13 @@
 *B*asic *I*nput *O*utput *S*ystem
 
 ## Table of Contents
- * [M.I.T.](/BIOS.md#fox_face-mit)
- * [System](/BIOS.md#fox_face-system)
- * [BIOS](/BIOS.md#fox_face-bios)
- * [Peripherals](/BIOS.md#fox_face-peripherals)
- * [Chipset](/BIOS.md#fox_face-chipset)
- * [Power](/BIOS.md#fox_face-power)
- * [Save & Exit](/BIOS.md#fox_face-save--exit)
+ * [M.I.T.](/English/BIOS.md#fox_face-mit)
+ * [System](/English/BIOS.md#fox_face-system)
+ * [BIOS](/English/BIOS.md#fox_face-bios)
+ * [Peripherals](/English/BIOS.md#fox_face-peripherals)
+ * [Chipset](/English/BIOS.md#fox_face-chipset)
+ * [Power](/English/BIOS.md#fox_face-power)
+ * [Save & Exit](/English/BIOS.md#fox_face-save--exit)
 
 # :fox_face: M.I.T.
 * Advanced Frequency Settings
@@ -33,7 +33,7 @@
 
 # :fox_face: BIOS
 * Full Screen LOGO Show - Enabled
-* Boot Option #1 - UEFI:OS (P0: Samsund SSD)
+* Boot Option #1 - UEFI:OS (P0: Samsung SSD)
 * Mouse Speed - 2 X
 * Windows 8/10 Features - Other OS
 * Storage Boot Control - Legacy
