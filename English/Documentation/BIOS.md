@@ -2,13 +2,13 @@
 *B*asic *I*nput *O*utput *S*ystem
 
 ## Table of Contents
- * [M.I.T.](/English/BIOS.md#fox_face-mit)
- * [System](/English/BIOS.md#fox_face-system)
- * [BIOS](/English/BIOS.md#fox_face-bios)
- * [Peripherals](/English/BIOS.md#fox_face-peripherals)
- * [Chipset](/English/BIOS.md#fox_face-chipset)
- * [Power](/English/BIOS.md#fox_face-power)
- * [Save & Exit](/English/BIOS.md#fox_face-save--exit)
+ * [M.I.T.](/Documentation/English/BIOS.md#fox_face-mit)
+ * [System](/Documentation/English/BIOS.md#fox_face-system)
+ * [BIOS](/Documentation/English/BIOS.md#fox_face-bios)
+ * [Peripherals](/Documentation/English/BIOS.md#fox_face-peripherals)
+ * [Chipset](/Documentation/English/BIOS.md#fox_face-chipset)
+ * [Power](/Documentation/English/BIOS.md#fox_face-power)
+ * [Save & Exit](/Documentation/English/BIOS.md#fox_face-save--exit)
 
 # :fox_face: M.I.T.
 * Advanced Frequency Settings
