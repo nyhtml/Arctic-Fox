@@ -6,9 +6,9 @@
 
 ### **Languages**
 
-:fox_face: [English (en-us)](/Documentation/English/README.md)  
-:fox_face: [French (fr)](/Documentation/French/README.md)  
-:fox_face: [German (de)](/Documentation/German/README.md)  
-:fox_face: [Spanish (es)](/Documentation/Spanish/README.md)  
-:fox_face: [Japanese (ja)](/Documentation/Japanese/README.md)  
-:fox_face: [Simplified Chinese (zh-cn)](/Documentation/Chinese/README.md)  
+:fox_face: [English (en-us)](Documentation/English/README.md)  
+:fox_face: [French (fr)](Documentation/French/README.md)  
+:fox_face: [German (de)](Documentation/German/README.md)  
+:fox_face: [Spanish (es)](Documentation/Spanish/README.md)  
+:fox_face: [Japanese (ja)](Documentation/Japanese/README.md)  
+:fox_face: [Simplified Chinese (zh-cn)](Documentation/Chinese/README.md)
