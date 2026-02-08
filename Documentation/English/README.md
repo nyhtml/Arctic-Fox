@@ -112,7 +112,7 @@ See the latest [releases](https://github.com/Sipylus/Arctic-Fox/releases) for th
   * [Windows 7](https://www.dualbootpc.com/software/system/windows/seven/)
 
 ## License
-See the posted [MIT License](https://github.com/Sipylus/Arctic-Fox/blob/main/LICENSE) for details.
+See the posted [License](https://github.com/Sipylus/Arctic-Fox/blob/main/LICENSE) for details.
   
 ## Warranty
 THIS [ARCTIC FOX](https://github.com/Sipylus/Arctic-Fox/) REPO IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR<br>
