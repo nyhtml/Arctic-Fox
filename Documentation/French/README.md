@@ -22,14 +22,14 @@
 Voir les [spécifications complètes](https://www.dualbootpc.com/systems/desktop/arctic-fox/specs/) : `http://gixxer.us/2Jslljx`
 
 ## Paramètres du BIOS
-Consultez le wiki pour une liste complète des [paramètres BIOS](/English/BIOS.md).
- * [M.I.T.](/English/BIOS.md#fox_face-mit)
- * [Système](/English/BIOS.md#fox_face-system)
- * [BIOS](/English/BIOS.md#fox_face-bios)
- * [Périphériques](/English/BIOS.md#fox_face-peripherals)
- * [Chipset](/English/BIOS.md#fox_face-chipset)
- * [Alimentation](/English/BIOS.md#fox_face-power)
- * [Enregistrer & Quitter](/English/BIOS.md#fox_face-save--exit)
+Consultez le wiki pour une liste complète des [paramètres BIOS](/Documentation/English/BIOS.md).
+ * [M.I.T.](/Documentation/English/BIOS.md#fox_face-mit)
+ * [Système](/Documentation/English/BIOS.md#fox_face-system)
+ * [BIOS](/Documentation/English/BIOS.md#fox_face-bios)
+ * [Périphériques](/Documentation/English/BIOS.md#fox_face-peripherals)
+ * [Chipset](/Documentation/English/BIOS.md#fox_face-chipset)
+ * [Alimentation](/Documentation/English/BIOS.md#fox_face-power)
+ * [Enregistrer & Quitter](/Documentation/English/BIOS.md#fox_face-save--exit)
 
 ## Préparer le Support d’Installation
 1. Télécharger l’installeur pour [macOS Sierra](https://www.dualbootpc.com/software/system/macos/sierra/) depuis le Mac App Store.
